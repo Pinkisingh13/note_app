@@ -58,8 +58,8 @@ flutter run
 
 ## Follow Me
 For more of my learning projects and insights:
-- **<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a>**: Stay updated on my professional journey.
-- **<a href="https://medium.com/@your-medium-profile" target="_blank">Medium</a>**: Read about my learnings and projects.
+- **<a href="www.linkedin.com/in/pinkisingh23" target="_blank">LinkedIn</a>**: Stay updated on my professional journey.
+- **<a href="https://medium.com/@web.pinkisingh" target="_blank">Medium</a>**: Read about my learnings and projects.
 
 ## Contribution
 This project is intended as a learning tool, but contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
