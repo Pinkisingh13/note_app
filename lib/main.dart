@@ -10,7 +10,6 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -202,7 +201,7 @@ class ReadAndWrite {
       final String content = await file.readAsString();
       return content.split('\n').where((line) => line.isNotEmpty).toList();
     } catch (e) {
-      print(e);
+      // print(e);
       return [];
     }
   }
