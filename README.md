@@ -58,7 +58,7 @@ flutter run
 
 ## Follow Me
 For more of my learning projects and insights:
-- **<a href="www.linkedin.com/in/pinkisingh23" target="_blank">LinkedIn</a>**: Stay updated on my professional journey.
+- **<a href="https://www.linkedin.com/in/pinkisingh23/" target="_blank">LinkedIn</a>**: Stay updated on my professional journey.
 - **<a href="https://medium.com/@web.pinkisingh" target="_blank">Medium</a>**: Read about my learnings and projects.
 
 ## Contribution
