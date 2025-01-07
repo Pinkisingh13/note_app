@@ -194,7 +194,7 @@ class ReadAndWrite {
     File file = await getlocalPathAndFile();
     await file.writeAsString('$value\n', mode: FileMode.append);
   }
-
+ 
   static Future<List<String>> readFile() async {
     try {
       final file = await getlocalPathAndFile();
